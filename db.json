@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": "123456",
+      "name": "Example Product",
+      "price": "9.99",
+      "description": "This is an example product.",
+      "catalogs": [
+        "catalog1",
+        "catalog2"
+      ],
+      "status": true
+    },
+    {
+      "title": "",
+      "author": "",
+      "content": "",
+      "tags": [
+        ""
+      ],
+      "status": true,
+      "name": "sach",
+      "price": "99$",
+      "description": "dfgh",
+      "catalogs": "x",
+      "timestamp": "2023-11-04T03:59:52.674Z",
+      "id": "rlK1dqz"
+    }
+  ]
+}
